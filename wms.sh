@@ -1,3 +1,5 @@
+#! /bin/bash
+
 git clone git@bitbucket.org:summermick/wms_laravel_angular_material.git wms;
 cd wms;
 cp .env.example .env;
